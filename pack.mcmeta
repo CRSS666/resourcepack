@@ -1,0 +1,28 @@
+{
+  "pack": {
+    "min_format": 16,
+    "max_format": 9999,
+    "pack_format": 16,
+    "supported_formats": [
+      16,
+      9999
+    ],
+    "description": {
+      "text": "CRSS Resourcepack",
+      "extra": [
+        {
+          "text": " | April 2026"
+        },
+        {
+          "text": "by CRSS",
+          "italic": true
+        },
+        {
+          "atlas": "minecraft:particles",
+          "sprite": "goldheart_2"
+        }
+      ],
+      "color": "white"
+    }
+  }
+}
