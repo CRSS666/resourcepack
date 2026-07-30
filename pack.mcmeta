@@ -8,18 +8,14 @@
       9999
     ],
     "description": {
-      "text": "CRSS Resourcepack",
+      "text": "CRSS Resource Pack",
       "extra": [
         {
-          "text": " | April 2026"
+          "text": " | 2026\n"
         },
         {
-          "text": "by CRSS",
+          "text": "Go ride GREAT or smth",
           "italic": true
-        },
-        {
-          "atlas": "minecraft:particles",
-          "sprite": "goldheart_2"
         }
       ],
       "color": "white"
