@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "crss:item/money"
+    "layer0": "crss:item/yellow_money"
   }
 }
